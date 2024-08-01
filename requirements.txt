@@ -1,0 +1,12 @@
+tensorflow==2.6.0
+keras
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
+imageio
+imutils
+mtcnn

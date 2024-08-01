@@ -1,0 +1,1 @@
+python src/face_rec_cam.py
