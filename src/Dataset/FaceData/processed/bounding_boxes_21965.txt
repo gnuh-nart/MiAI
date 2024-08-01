@@ -1,0 +1,31 @@
+src/Dataset/FaceData/processed\3\0.png
+src/Dataset/FaceData/processed\4\18.png
+src/Dataset/FaceData/processed\4\26.png 14 0 211 228
+src/Dataset/FaceData/processed\4\11.png 8 0 196 215
+src/Dataset/FaceData/processed\4\27.png 14 0 201 222
+src/Dataset/FaceData/processed\4\2.png 7 0 196 206
+src/Dataset/FaceData/processed\4\17.png 3 0 195 211
+src/Dataset/FaceData/processed\4\22.png 10 0 198 218
+src/Dataset/FaceData/processed\4\23.png 11 0 202 212
+src/Dataset/FaceData/processed\4\6.png 3 0 198 205
+src/Dataset/FaceData/processed\4\4.png 7 0 195 204
+src/Dataset/FaceData/processed\4\0.png 10 0 194 201
+src/Dataset/FaceData/processed\4\21.png 20 0 205 205
+src/Dataset/FaceData/processed\4\16.png 17 0 204 208
+src/Dataset/FaceData/processed\4\19.png 20 0 205 205
+src/Dataset/FaceData/processed\4\5.png 4 0 200 213
+src/Dataset/FaceData/processed\4\15.png 17 0 204 208
+src/Dataset/FaceData/processed\4\1.png 10 0 203 215
+src/Dataset/FaceData/processed\4\7.png 5 0 195 204
+src/Dataset/FaceData/processed\4\24.png 11 0 202 212
+src/Dataset/FaceData/processed\4\3.png 3 0 199 209
+src/Dataset/FaceData/processed\4\12.png 8 0 193 206
+src/Dataset/FaceData/processed\4\25.png 14 0 211 228
+src/Dataset/FaceData/processed\4\20.png
+src/Dataset/FaceData/processed\4\14.png 0 0 195 206
+src/Dataset/FaceData/processed\4\10.png 4 0 197 211
+src/Dataset/FaceData/processed\4\9.png 7 0 199 212
+src/Dataset/FaceData/processed\4\28.png 9 0 199 217
+src/Dataset/FaceData/processed\4\29.png 4 0 196 208
+src/Dataset/FaceData/processed\4\8.png 7 0 196 206
+src/Dataset/FaceData/processed\4\13.png 0 0 196 206
